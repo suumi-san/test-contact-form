@@ -1,0 +1,71 @@
+
+.header {
+    background-color: #fff;
+    text-align: center;
+}
+
+.header__inner {
+    border: solid 1px #E0DFDE;
+    margin: 0 auto;
+    padding: 20px 15px;
+}
+
+/*ヘッダーロゴ*/
+.header__logo {
+    color: #8B7969;
+    font-size: 40px;
+    font-family: "Inika", "YuMincho", "游明朝体";
+    line-height: 100%;
+    text-decoration: none;
+}
+
+/*ここから問い合わせ入力フォーム*/
+.contact-form__content {
+    margin: 0 auto;
+    padding: 20px 15px;
+    max-width: 900px;
+}
+
+/*Contactタイトル*/
+.contact-form__heading {
+    color: #8B7969;
+    font-size: 35px;
+    font-family: "Inika", "YuMincho", "游明朝体";
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.form_group {
+    width: 100%;
+}
+
+
+.confirm-table {
+    align-items: center;
+    margin: 0 90px;
+}
+
+.confirm-table__inner {
+    width: 100%;
+}
+
+.confirm-table__header {
+    width: 30%;
+    padding: 10px 10px 10px 20px;
+    border: solid 1px #E0DFDE;
+    background-color: #BAA899;
+    color: #fff;
+    text-align: left;
+    font-size: 20px;
+    font-family: "Inika", "YuMincho", "游明朝体";
+}
+
+.confirm-table__text {
+    width: 70%;
+    border: solid 1px #E0DFDE;
+    background-color: #fff;
+    color: #8B7969;
+    text-align: left;
+    font-size: 20px;
+    font-family: "Inika", "YuMincho", "游明朝体";
+}
