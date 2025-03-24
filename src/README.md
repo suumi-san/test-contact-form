@@ -12,6 +12,7 @@ Laravel 環境構築
 1.docker-compose exec php bash
 2.composer create-project "laravel/laravel=8.\*" . --prefer-dist
 3..env.example ファイルから.ev ファイルを作成し、環境変数を変更
+4.php artisan migrate
 
 ## 使用技術(実行環境)
 
